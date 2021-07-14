@@ -1,0 +1,29 @@
+footer
+{
+    background-color: black;
+    width: 100%;
+    height: 50vh;
+}
+footer p
+{
+    color: white;
+    text-align: center;
+}
+div.owner
+{
+    width:100px;
+    margin: auto;
+}
+.social-media
+{
+    color:white;
+    font-size: 2rem;
+    text-align: center;
+}
+ a
+{
+    text-decoration: none;
+    color:white;
+}
+
+    
